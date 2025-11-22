@@ -1,6 +1,6 @@
 # 🪖 **Smart Helmet Accident Detection & SOS System**
 
-### **Team SafeVerse – IoT Project 7**
+### **Team SafeVerse**
 
 ---
 
